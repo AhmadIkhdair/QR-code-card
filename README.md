@@ -40,5 +40,5 @@ Practiced basic HTML & CSS.
 ## Author
 
 - LinkedIn - [Ahmad Ikhdair](https://www.linkedin.com/in/ahmad-ikhdair/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AhmadIkhdair)
+- Frontend Mentor - [Ahmad Ikhdair](https://www.frontendmentor.io/profile/AhmadIkhdair)
 
